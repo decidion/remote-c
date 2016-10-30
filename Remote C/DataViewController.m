@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+- (IBAction)but2:(id)sender {
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
